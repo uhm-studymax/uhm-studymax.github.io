@@ -1,1 +1,1 @@
-# UHM-Study.github.io
+# uhm-studymax.github.io
