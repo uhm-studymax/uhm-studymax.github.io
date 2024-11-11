@@ -1,7 +1,4 @@
-COPIED AND PASTED W/ MINOR EDITS CHAGE ANYHTING YOU LIKE 
-
-# Studdy Buddy
--
+# Study Buddy-
 ## by uhm_studymax
 
 ## Overview
