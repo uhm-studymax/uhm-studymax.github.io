@@ -26,7 +26,7 @@ The sign-up page allows users to log in to their accounts. Users need to provide
 This page features your account information as well as study session the person has committed to.  The profile includes name, major, bio, and socials. The session will include a title, class, creator, date and time, place, collaborators, and a description
 
 **Edit Profile Page**
-<img src="doc/addContact.png" alt="Landing Page Screenshot">
+<img src="doc/editProfile.png" alt="Landing Page Screenshot">
 Edit the fields of your profile page like name, bio, social, major, etc
 
 **Sessions**
