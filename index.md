@@ -20,7 +20,7 @@ About Page provides a brief overview of Study Buddy and its uses
 
 ## Sign Up Page
 
-<img src="doc/signUp.png" alt="Landing Page Screenshot">
+<img src="doc/signup.png" alt="Landing Page Screenshot">
 The sign-up page allows users to log in to their accounts. Users need to provide their email and password to sign in.
 
 ## My Profile Page
