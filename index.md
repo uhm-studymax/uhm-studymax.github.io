@@ -18,7 +18,7 @@ The home page provides an overview of the application features, including multip
 ## About Page
 
 <img src="doc/frontp2.png" alt="Landing Page Screenshot">
-A brief overview of Study Buddy and its uses
+About Page provides a brief overview of Study Buddy and its uses
 
 ## Sign Up Page
 
@@ -33,32 +33,32 @@ This page features your account information as well as study session the person 
 ## Edit Profile Page
 
 <img src="doc/editProf.png" alt="Landing Page Screenshot">
-Edit the fields of your profile page like name, bio, social, major, etc
+Customize and edit the fields of your profile page like name, bio, social, major, etc allowing people to connect with specific people who take the same classes
 
 ## Sessions
 
 <img src="doc/sess.png" alt="Landing Page Screenshot">
-List of available study sessions to join with description of when, where, who, and what
+Provides a list of available study sessions to join with description of when, where, who, and what allowing for easy efficent connections
 
 ## My Sessions Page
 
 <img src="doc/mySessions.png" alt="Landing Page Screenshot">
-Page to see what study session you have joined with all the information about the session
+The My Sesions Page will provide study session you have joined with all the information about the session
 
 ## Create Sessions
 
 <img src="doc/CreateSes.png" alt="Landing Page Screenshot">
-Page to create the study session describing What, When, and Where to study
+The Create Session Page allows you to create a study session describing What you're studying, where you want to study, and when you want to study in hopes of connecting with others who are studying the same subject
 
 ## Buddies
 
 <img src="doc/bud.png" alt="Landing Page Screenshot">
-Page to show the list of buddies you can find, add, and filter which buddies you added.
+The Buddies Page shows a list of buddies you can find, add, and filter which buddies you added. Similar to a friends list on video games like Brawl Stars
 
 ## Buddy Profile
 
 <img src="doc/buddyProfile.png" alt="Landing Page Screenshot">
-This page shows the list of all contacts as Admin view.
+The Buddy Profile Page shows the list of all contacts as Admin view.
 
 ## Team
 Team Members:
