@@ -69,6 +69,6 @@ Team Members:
 - Reo Nagahama
 
 ## Team Contract
-- Team Contract [https://docs.google.com/document/d/1CuqpTS5TcGMRY66bBHws0psp6xEzRiAeooaWMurNlUc/edit?tab=t.0]
+- [Team Contract](https://docs.google.com/document/d/1CuqpTS5TcGMRY66bBHws0psp6xEzRiAeooaWMurNlUc/edit?tab=t.0)
 
 
