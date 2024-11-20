@@ -74,7 +74,7 @@ Team Members:
 ## Project links and Development History:
  - [Organization Page](https://github.com/uhm-studymax)
  - [M1](https://github.com/orgs/uhm-studymax/projects/1)
- - [M2]
- - [M3]
+ - [M2](https://github.com/orgs/uhm-studymax/projects/1)
+ - [M3](https://github.com/orgs/uhm-studymax/projects/1)
 
 
