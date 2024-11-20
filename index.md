@@ -89,4 +89,6 @@ The goal of Milestone 3 was to clean up the code base and fix minor UI issues.
 
 Milestone 3 was managed using [M3](https://github.com/orgs/uhm-studymax/projects/1)
 
+## Current live [link](https://study-buddy-inky-nine.vercel.app/) for the project
+
 
