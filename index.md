@@ -42,7 +42,7 @@ List of available study sessions to join with description of when, where, who, a
 
 ## My Sessions Page
 
-<img src="doc/mySession.png" alt="Landing Page Screenshot">
+<img src="doc/mySessions.png" alt="Landing Page Screenshot">
 Page to see what study session you have joined with all the information about the session
 
 ## Create Sessions
