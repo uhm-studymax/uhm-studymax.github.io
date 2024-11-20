@@ -55,7 +55,7 @@ The Buddies Page shows a list of buddies you can find, add, and filter which bud
 
 ## Buddy Profile
 
-<img src="doc/buddyProfile.png" alt="Landing Page Screenshot">
+<img src="doc/budprof.png" alt="Landing Page Screenshot">
 The Buddy Profile Page shows the list of all contacts as Admin view.
 
 ## Team
