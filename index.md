@@ -10,7 +10,7 @@ UHM Study is a web application for students to find study buddies online. It all
 
 ## Home Page
 
-<img src="doc/front.png" alt="Landing Page Screenshot">
+<img src="doc/newfront.png" alt="Landing Page Screenshot">
 The home page provides an overview of the application features, including multiple users, contact details, and timestamped notes.
 
 ## About Page
