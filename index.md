@@ -71,4 +71,10 @@ Team Members:
 ## Team Contract
 - [Team Contract](https://docs.google.com/document/d/1CuqpTS5TcGMRY66bBHws0psp6xEzRiAeooaWMurNlUc/edit?tab=t.0)
 
+## Project links and Development History:
+ - [Organization Page](https://github.com/uhm-studymax)
+ - [M1](https://github.com/orgs/uhm-studymax/projects/1)
+ - [M2]
+ - [M3]
+
 
