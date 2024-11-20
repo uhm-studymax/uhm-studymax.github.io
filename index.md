@@ -1,5 +1,4 @@
 # Study Buddy
-## by uhm_studymax
 
 ## Overview
 
