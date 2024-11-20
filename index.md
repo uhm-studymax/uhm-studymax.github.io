@@ -15,8 +15,12 @@ The home page provides an overview of the application features, including multip
 
 ## About Page
 
-<img src="doc/frontp2.png" alt="Landing Page Screenshot">
+<img src="doc/aboutdamn.png" alt="Landing Page Screenshot">
 About Page provides a brief overview of Study Buddy and its uses
+
+## Tutorial
+<img src="doc/tutorial.png" alt="Landing Page Screenshot">
+The Tutorial Page offers a video demo of how to use Study Buddy
 
 ## Sign Up Page
 
