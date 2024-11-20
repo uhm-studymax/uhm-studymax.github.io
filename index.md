@@ -72,6 +72,7 @@ Team Members:
 ## Project History:
  - [Organization Page](https://github.com/uhm-studymax)
  - [M1](https://github.com/orgs/uhm-studymax/projects/1)
+<img src="doc/M1.png" alt="Landing Page Screenshot">
  - [M2](https://github.com/orgs/uhm-studymax/projects/1)
  - [M3](https://github.com/orgs/uhm-studymax/projects/1)
 
