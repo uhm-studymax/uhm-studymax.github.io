@@ -60,4 +60,15 @@ Page to show the list of buddies you can find, add, and filter which buddies you
 <img src="doc/buddyProfile.png" alt="Landing Page Screenshot">
 This page shows the list of all contacts as Admin view.
 
+## Team
+Team Members:
+
+- Ralph Ramos
+- Wilson Huynh
+- Lukas Moroz
+- Reo Nagahama
+
+## Team Contract
+- Team Contract [https://docs.google.com/document/d/1CuqpTS5TcGMRY66bBHws0psp6xEzRiAeooaWMurNlUc/edit?tab=t.0]
+
 
