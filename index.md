@@ -12,9 +12,12 @@ UHM Study is a web application for students to find study buddies online. It all
 
 
 **Home Page**
-<img src="doc/landingPageSI.png" alt="Landing Page Screenshot">
-
+<img src="doc/front.png" alt="Landing Page Screenshot">
 The home page provides an overview of the application features, including multiple users, contact details, and timestamped notes.
+
+**About Page**
+<img src="doc/frontp2.png" alt="Landing Page Screenshot">
+A brief overview of Study Buddy and its uses
 
 **Sign Up Page**
 <img src="doc/signUp.png" alt="Landing Page Screenshot">
@@ -30,7 +33,7 @@ This page features your account information as well as study session the person 
 Edit the fields of your profile page like name, bio, social, major, etc
 
 **Sessions**
-<img src="doc/sessions.png" alt="Landing Page Screenshot">
+<img src="doc/sess.png" alt="Landing Page Screenshot">
 List of available study sessions to join with description of when, where, who, and what
 
 **My Sessions Page**
@@ -42,7 +45,7 @@ Page to see what study session you have joined with all the information about th
 Page to create the study session describing What, When, and Where to study
 
 **Buddies**
-<img src="doc/buddies.png" alt="Landing Page Screenshot">
+<img src="doc/bud.png" alt="Landing Page Screenshot">
 Page to show the list of buddies you can find, add, and filter which buddies you added.
 
 **Buddy Profile**
