@@ -82,6 +82,7 @@ Milestone 1 was managed using [M1](https://github.com/orgs/uhm-studymax/projects
 The goal of Milestone 2 was to implement the data model: the underlying set of Mongo Collections and the operations upon them that would support the BowFolio application.
 
 Milestone 2 was managed using [M2](https://github.com/orgs/uhm-studymax/projects/4/views/1)
+<img src="doc/M2start.png" alt="Landing Page Screenshot">
    
 ## Milestone 3:
 The goal of Milestone 3 was to clean up the code base and fix minor UI issues.
