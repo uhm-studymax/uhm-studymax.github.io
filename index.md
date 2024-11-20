@@ -69,11 +69,23 @@ Team Members:
 ## Team Contract
 - [Team Contract](https://docs.google.com/document/d/1CuqpTS5TcGMRY66bBHws0psp6xEzRiAeooaWMurNlUc/edit?tab=t.0)
 
-## Project History:
+## Organization Page:
  - [Organization Page](https://github.com/uhm-studymax)
- - [M1](https://github.com/orgs/uhm-studymax/projects/1)
+
+## Milestone 1:
+The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
+
+Milestone 1 was managed using [M1](https://github.com/orgs/uhm-studymax/projects/1)
 <img src="doc/M1.png" alt="Landing Page Screenshot">
- - [M2](https://github.com/orgs/uhm-studymax/projects/1)
- - [M3](https://github.com/orgs/uhm-studymax/projects/1)
+
+## Milestone 2:
+The goal of Milestone 2 was to implement the data model: the underlying set of Mongo Collections and the operations upon them that would support the BowFolio application.
+
+Milestone 2 was managed using [M2](https://github.com/orgs/uhm-studymax/projects/4/views/1)
+   
+## Milestone 3:
+The goal of Milestone 3 was to clean up the code base and fix minor UI issues.
+
+Milestone 3 was managed using [M3](https://github.com/orgs/uhm-studymax/projects/1)
 
 
