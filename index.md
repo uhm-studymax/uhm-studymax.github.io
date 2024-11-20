@@ -26,7 +26,7 @@ The sign-up page allows users to log in to their accounts. Users need to provide
 This page features your account information as well as study session the person has committed to.  The profile includes name, major, bio, and socials. The session will include a title, class, creator, date and time, place, collaborators, and a description
 
 **Edit Profile Page**
-<img src="doc/editProfile.png" alt="Landing Page Screenshot">
+<img src="doc/editProf.png" alt="Landing Page Screenshot">
 Edit the fields of your profile page like name, bio, social, major, etc
 
 **Sessions**
@@ -35,6 +35,11 @@ List of available study sessions to join with description of when, where, who, a
 
 **My Sessions Page**
 <img src="doc/mySession.png" alt="Landing Page Screenshot">
+Page to see what study session you have joined with all the information about the session
+
+**Create Sessions**
+<img src="doc/CreateSes.png" alt="Landing Page Screenshot">
+Page to create the study session describing What, When, and Where to study
 
 **Buddies**
 <img src="doc/buddies.png" alt="Landing Page Screenshot">
