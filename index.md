@@ -109,5 +109,5 @@ Milestone 3 was managed using [M3](https://github.com/orgs/uhm-studymax/projects
 
 
 ## Deployment:
-Current live [link](https://uhm-studymax.vercel.app/) for the project
+Current live [link](https://study-buddy-inky-nine.vercel.app/) for the project
 
