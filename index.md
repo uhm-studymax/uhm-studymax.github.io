@@ -7,7 +7,7 @@ UHM Study is a web application for students to find study buddies online. It all
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
 * [React Bootstrap](https://react-bootstrap.github.io/) CSS Framework for UI design.
 
-##User guide
+## User guide
 
 ### Home Page
 
