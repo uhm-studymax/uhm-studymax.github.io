@@ -10,53 +10,55 @@ UHM Study is a web application for students to find study buddies online. It all
 
 ## Home Page
 
-<img src="doc/newfront.png" alt="Landing Page Screenshot">
 The home page provides an overview of the application features, including multiple users, contact details, and timestamped notes.
+<img src="doc/newfront.png" alt="Landing Page Screenshot">
 
 ## About Page
 
-<img src="doc/aboutdamn.png" alt="Landing Page Screenshot">
 About Page provides a brief overview of Study Buddy and its uses
+<img src="doc/aboutdamn.png" alt="Landing Page Screenshot">
 
 ## Tutorial
-<img src="doc/tutorial.png" alt="Landing Page Screenshot">
+
 The Tutorial Page offers a video demo of how to use Study Buddy
+<img src="doc/tutorial.png" alt="Landing Page Screenshot">
 
 ## Sign Up Page
 
-<img src="doc/signup.png" alt="Landing Page Screenshot">
 The sign-up page allows users to log in to their accounts. Users need to provide their email and password to sign in.
+<img src="doc/signup.png" alt="Landing Page Screenshot">
 
 ## My Profile Page
 
-<img src="doc/MySessions.png" alt="Landing Page Screenshot">
 This page features your account information as well as study session the person has committed to.  The profile includes name, major, bio, and socials. The session will include a title, class, creator, date and time, place, collaborators, and a description
 The My Sesions Page will provide study session you have joined with all the information about the session
+<img src="doc/MySessions.png" alt="Landing Page Screenshot">
 
 ## Edit Profile Page
 
-<img src="doc/editProf.png" alt="Landing Page Screenshot">
 Customize and edit the fields of your profile page like name, bio, social, major, etc allowing people to connect with specific people who take the same classes
+<img src="doc/editProf.png" alt="Landing Page Screenshot">
 
 ## Sessions
 
-<img src="doc/Sessions.png" alt="Landing Page Screenshot">
 Provides a list of available study sessions to join with description of when, where, who, and what allowing for easy efficent connections
+<img src="doc/Sessions.png" alt="Landing Page Screenshot">
 
 ## Create Sessions
 
-<img src="doc/CreateSes.png" alt="Landing Page Screenshot">
 The Create Session Page allows you to create a study session describing What you're studying, where you want to study, and when you want to study in hopes of connecting with others who are studying the same subject
+<img src="doc/CreateSes.png" alt="Landing Page Screenshot">
 
 ## Buddies
 
-<img src="doc/bud.png" alt="Landing Page Screenshot">
 The Buddies Page shows a list of buddies you can find, add, and filter which buddies you added. Similar to a friends list on video games like Brawl Stars
+<img src="doc/bud.png" alt="Landing Page Screenshot">
+
 
 ## Buddy Profile
 
-<img src="doc/budprof.png" alt="Landing Page Screenshot">
 The Buddy Profile Page shows the list of all contacts as Admin view.
+<img src="doc/budprof.png" alt="Landing Page Screenshot">
 
 ## Developer Guide
 1. First Clone our github project [repository](https://github.com/uhm-studymax/study-buddy)
@@ -99,12 +101,13 @@ Milestone 1 was managed using [M1](https://github.com/orgs/uhm-studymax/projects
 The goal of Milestone 2 was to implement the data model: the underlying set of Mongo Collections and the operations upon them that would support the BowFolio application.
 
 Milestone 2 was managed using [M2](https://github.com/orgs/uhm-studymax/projects/4/views/1)
-<img src="doc/M2pre.png" alt="Landing Page Screenshot">
+<img src="doc/M2final.png" alt="Landing Page Screenshot">
    
 ## Milestone 3:
 The goal of Milestone 3 was to clean up the code base and fix minor UI issues.
 
-Milestone 3 was managed using [M3](https://github.com/orgs/uhm-studymax/projects/1)
+Milestone 3 was managed using [M3]([https://github.com/orgs/uhm-studymax/projects/1](https://github.com/orgs/uhm-studymax/projects/7/views/1?pane=issue&itemId=89428064&issue=uhm-studymax%7Cuhm-studymax.github.io%7C18))
+<img src="doc/M3Start.png" alt="Landing Page Screenshot">
 
 
 
