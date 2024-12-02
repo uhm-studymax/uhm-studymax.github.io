@@ -58,6 +58,12 @@ The Buddies Page shows a list of buddies you can find, add, and filter which bud
 <img src="doc/budprof.png" alt="Landing Page Screenshot">
 The Buddy Profile Page shows the list of all contacts as Admin view.
 
+## Developer Guide
+1. First Clone our github project [repository](https://github.com/uhm-studymax/study-buddy)
+2. Open terminal in VScode and type ``npm install``
+3. 
+
+
 ## Team
 Team Members:
 
