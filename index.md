@@ -66,14 +66,14 @@ The Buddy Profile Page shows the list of all contacts as Admin view.
     *[ICS 314 Deployment Module](https://courses.ics.hawaii.edu/ics314f24/modules/deployment/![image](https://github.com/user-attachments/assets/f139a0da-6bc0-4bde-8ce9-e0fb9dfa255c)
 )
 4. Configure your cloud database in AWS
-   *Create an AWS account
-   *Using S3 service, create a bucket
-   *Setup and create IAM user
-   *Create access keys then transfer those values to your into .env file
-   *Configure IAM user policies to allow for S3 bucket permissions along with CORS setup
+   -Create an AWS account
+   -Using S3 service, create a bucket
+   -Setup and create IAM user
+   -Create access keys then transfer those values to your into .env file
+   -Configure IAM user policies to allow for S3 bucket permissions along with CORS setup
 5. Run your project
-   *Go into terminal on VScode, type: ``npm run dev``
-   *The site should then be running on [https://localhost:3000](https://localhost:3000)
+   -Go into terminal on VScode, type: ``npm run dev``
+   -The site should then be running on [https://localhost:3000](https://localhost:3000)
 
 ## Team
 Team Members:
