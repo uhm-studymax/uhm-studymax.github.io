@@ -29,7 +29,13 @@ The Tutorial Page offers a video demo of how to use Study Buddy
 
 ### Sign Up Page
 
-The sign-up page allows users to log in to their accounts. Users need to provide their email and password to sign in.
+The sign-up page allows users to create an account. Users need to provide their email and password to sign in.
+
+<img src="doc/signup.png" alt="Landing Page Screenshot">
+
+### Sign In Page
+
+The sign-in page allows users to log in to their accounts. Users need to provide their email and password to sign in.
 
 <img src="doc/signup.png" alt="Landing Page Screenshot">
 
