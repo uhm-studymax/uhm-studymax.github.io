@@ -39,18 +39,20 @@ The sign-in page allows users to log in to their accounts. Users need to provide
 
 <img src="doc/signup.png" alt="Landing Page Screenshot">
 
-### My Profile Page
 
-This page features your account information as well as study session the person has committed to.  The profile includes name, major, bio, and socials. The session will include a title, class, creator, date and time, place, collaborators, and a description
-The My Sesions Page will provide study session you have joined with all the information about the session
-
-<img src="doc/MySessions.png" alt="Landing Page Screenshot">
 
 ### Create Profile Page
 
 Create a profile by adding the fields of your profile page like name, bio, social, major, etc allowing people to connect with specific people who take the same classes
 
 <img src="doc/createProfile.png" alt="Landing Page Screenshot">
+
+### My Profile Page
+
+This page features your account information. The profile includes name, major, bio, and socials. The session will include a title, class, creator, date and time, place, collaborators, and a description
+The My Sesions Page will provide study session you have joined with all the information about the session
+
+<img src="doc/myProfile.png" alt="Landing Page Screenshot">
 
 ### Edit Profile Page
 
