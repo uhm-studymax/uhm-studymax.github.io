@@ -58,6 +58,7 @@ The My Sesions Page will provide study session you have joined with all the info
 
 Customize and edit the fields of your profile page like name, bio, social, major, etc allowing people to connect with specific people who take the same classes
 
+
 <img src="doc/editProf.png" alt="Landing Page Screenshot">
 
 ### Sessions
@@ -74,7 +75,7 @@ The Create Session Page allows you to create a study session describing What you
 
 ### Edit Session
 
-The edit session page allows users to edit the study sessions that they created
+The edit session page allows users to edit the study sessions that they created. You can also delete the session.
 
 <img src="doc/editSession.png" alt="Landing Page Screenshot">
 
