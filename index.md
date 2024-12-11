@@ -130,6 +130,7 @@ The study playlist page contains all the study playlists users have uploaded. Yo
    - The site should then be running on [https://localhost:3000](https://localhost:3000)
 
 ### Database Architecture
+
 ```mermaid
 erDiagram
     User ||--O| Profile : "has"
