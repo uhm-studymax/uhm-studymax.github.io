@@ -13,31 +13,31 @@ UHM Study is a web application for students to find study buddies online. It all
 
 The home page provides an overview of the application features, including multiple users, contact details, and timestamped notes.
 
-<img src="doc/newfront.png" alt="Landing Page Screenshot">
+<img src="doc/home.png" alt="Home">
 
 ### About Page
 
 About Page provides a brief overview of Study Buddy and its uses
 
-<img src="doc/aboutdamn.png" alt="Landing Page Screenshot">
+<img src="doc/about.png" alt="About">
 
 ### Tutorial
 
 The Tutorial Page offers a video demo of how to use Study Buddy
 
-<img src="doc/tutorial.png" alt="Landing Page Screenshot">
+<img src="doc/tutorial.png" alt="Tutorial">
 
 ### Sign Up Page
 
 The sign-up page allows users to create an account. Users need to provide their email and password to sign in.
 
-<img src="doc/signup.png" alt="Landing Page Screenshot">
+<img src="doc/signup.png" alt="Sign up">
 
 ### Sign In Page
 
 The sign-in page allows users to log in to their accounts. Users need to provide their email and password to sign in.
 
-<img src="doc/signup.png" alt="Landing Page Screenshot">
+<img src="doc/signin.png" alt="Sign In">
 
 
 
@@ -45,65 +45,65 @@ The sign-in page allows users to log in to their accounts. Users need to provide
 
 Create a profile by adding the fields of your profile page like name, bio, social, major, etc allowing people to connect with specific people who take the same classes
 
-<img src="doc/createProfile.png" alt="Landing Page Screenshot">
+<img src="doc/createprofile.png" alt="Create Profile">
 
 ### My Profile Page
 
 This page features your account information. The profile includes name, major, bio, and socials. The session will include a title, class, creator, date and time, place, collaborators, and a description
 The My Sesions Page will provide study session you have joined with all the information about the session
 
-<img src="doc/myProfile.png" alt="Landing Page Screenshot">
+<img src="doc/myprofile.png" alt="My Profile">
 
 ### Edit Profile Page
 
 Customize and edit the fields of your profile page like name, bio, social, major, etc allowing people to connect with specific people who take the same classes
 
 
-<img src="doc/editProf.png" alt="Landing Page Screenshot">
+<img src="doc/editprofile.png" alt="Edit Profile">
 
 ### Sessions
 
 Provides a list of available study sessions to join with description of when, where, who, and what allowing for easy efficent connections
 
-<img src="doc/sessions.png" alt="Landing Page Screenshot">
+<img src="doc/sessions.png" alt="Sessions">
 
 ### Create Sessions
 
 The Create Session Page allows you to create a study session describing What you're studying, where you want to study, and when you want to study in hopes of connecting with others who are studying the same 
 
-<img src="doc/CreateSes.png" alt="Landing Page Screenshot">
+<img src="doc/createsession.png" alt="Create Session">
 
 ### Edit Session
 
 The edit session page allows users to edit the study sessions that they created. You can also delete the session.
 
-<img src="doc/editSession.png" alt="Landing Page Screenshot">
+<img src="doc/editsession.png" alt="Edit Session">
 
 ### My Sessions
 
 My Sessions page shows all sessions that you added and created
 
-<img src="doc/mySessions.png" alt="Landing Page Screenshot">
+<img src="doc/mysessions.png" alt="My Session">
 
 ### Edit Session
 
 The edit session page allows users to edit the study sessions that they created
 
-<img src="doc/editSession.png" alt="Landing Page Screenshot">
+<img src="doc/editsession.png" alt="Edit Session">
 
 
 ### Buddies
 
 The Buddies Page shows a list of buddies you can find, add, and filter which buddies you added. Similar to a friends list on video games like Brawl Stars
 
-<img src="doc/bud.png" alt="Landing Page Screenshot">
+<img src="doc/buddies.png" alt="Buddies">
 
 
 ### Buddy Profile
 
 The Buddy Profile Page shows the list of all contacts as Admin view.
 
-<img src="doc/budprof.png" alt="Landing Page Screenshot">
+<img src="doc/buddyprofile.png" alt="Buddy Profile">
 
 ## Developer Guide
 1. First Clone our github project [repository](https://github.com/uhm-studymax/study-buddy)
