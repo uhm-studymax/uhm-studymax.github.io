@@ -6,6 +6,9 @@ UHM Study is a web application for students to find study buddies online. It all
 
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
 * [React Bootstrap](https://react-bootstrap.github.io/) CSS Framework for UI design.
+* POSTGRES / NEONDB for realtime Database
+* AWS S3 for cloud storage specifically for image storage
+* VERCEL for Project Deployment
 
 
 
