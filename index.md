@@ -173,7 +173,7 @@ Milestone 2 was managed using [M2](https://github.com/orgs/uhm-studymax/projects
 ## Milestone 3:
 The goal of Milestone 3 was to clean up the code base and fix minor UI issues.
 
-Milestone 3 was managed using [M3]([https://github.com/orgs/uhm-studymax/projects/1](https://github.com/orgs/uhm-studymax/projects/7/views/1?pane=issue&itemId=89428064&issue=uhm-studymax%7Cuhm-studymax.github.io%7C18))
+Milestone 3 was managed using [M3](https://github.com/orgs/uhm-studymax/projects/7/views/1)
 <img src="doc/m3.png" alt="Landing Page Screenshot">
 
 
