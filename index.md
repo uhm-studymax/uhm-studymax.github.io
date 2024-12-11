@@ -156,9 +156,11 @@ Study Buddy has a simple design and layout, making the site easy to understand a
   
  The website was easy to navigate and user friendly. I had no trouble creating a new study session. The website has a simple design consisting mainly of two colors, however, I would incorporate a few more design elements in order to make the website more unique and interesting.
 
--we need one more
+- Alex Tokunaga
 
-The website received generally positive feedback, with many users appreciating its simplicity, ease of use, and clean design. However, a common issue noted by several users was that the site is not optimized for mobile devices.
+The website has a simple and straight forward design which makes it easy to navigate. I like how the specific fields that each session has, it makes it very informative and eye catching to join a specific session. I enjoyed the study playlist the most because I enjoy listening to music while studying and so seeing other people's playlist helps me expand my music taste. Some disadvantages would be screen adaptability for smaller screens. Some, components don't collpse properly especially for mobile devices. I also think that there should be an auto delete system for the sessions that are done based off of the date. I'd have to manually delete the sessions once it's over. Lastly, the runtime for features like adding a buddy from the session modal would take a while.
+
+The website received generally positive feedback, with many users appreciating its simplicity, ease of use, and clean design. However, a common issue noted by several users was that the site is not optimized for mobile devices. A main issue would also be the run time of features like adding buddies since its not efficiently passing through the database.
   
 ## Team
 Team Members:
