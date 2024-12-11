@@ -120,7 +120,7 @@ The Buddy Profile Page shows the list of all contacts as Admin view.
    - The site should then be running on [https://localhost:3000](https://localhost:3000)
 
 ### Database Architecture
-
+```mermaid
 erDiagram
     User ||--O| Profile : "has"
     User ||--O{ StudySession : "creates/joins"
@@ -179,6 +179,7 @@ erDiagram
     }
 
     note "Enums: Role (USER, ADMIN), CollegeRole (TA, LA, Student), Condition (excellent, good, fair, poor)" as EnumNote
+```
 
 ## Community Feedback
 
