@@ -13,6 +13,8 @@ UHM Study is a web application for students to find study buddies online. It all
   ![ci-badge](https://github.com/uhm-studymax/study-buddy/workflows/study-buddy/badge.svg)
 
 
+## Deployment:
+Current live [link](https://study-buddy-inky-nine.vercel.app/) for the project
 
 ## User guide
 
@@ -196,8 +198,4 @@ The goal of Milestone 3 was to clean up the code base and fix minor UI issues.
 Milestone 3 was managed using [M3](https://github.com/orgs/uhm-studymax/projects/7/views/1)
 <img src="doc/m3.png" alt="Landing Page Screenshot">
 
-
-
-## Deployment:
-Current live [link](https://study-buddy-inky-nine.vercel.app/) for the project
 
