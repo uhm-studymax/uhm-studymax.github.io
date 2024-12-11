@@ -39,8 +39,6 @@ The sign-in page allows users to log in to their accounts. Users need to provide
 
 <img src="doc/signin.png" alt="Sign In">
 
-
-
 ### Create Profile Page
 
 Create a profile by adding the fields of your profile page like name, bio, social, major, etc allowing people to connect with specific people who take the same classes
@@ -57,7 +55,6 @@ The My Sesions Page will provide study session you have joined with all the info
 ### Edit Profile Page
 
 Customize and edit the fields of your profile page like name, bio, social, major, etc allowing people to connect with specific people who take the same classes
-
 
 <img src="doc/editprofile.png" alt="Edit Profile">
 
@@ -91,13 +88,11 @@ The edit session page allows users to edit the study sessions that they created
 
 <img src="doc/editsession.png" alt="Edit Session">
 
-
 ### Buddies
 
 The Buddies Page shows a list of buddies you can find, add, and filter which buddies you added. Similar to a friends list on video games like Brawl Stars
 
 <img src="doc/buddies.png" alt="Buddies">
-
 
 ### Buddy Profile
 
