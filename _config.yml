@@ -1,24 +1,30 @@
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+
+# Your existing configuration
 title: Studdy Buddy
 description: An application to find study buddies
 show_downloads: true
 theme: jekyll-theme-cayman
-
 gems:
   - jekyll-mentions
 
-plugins:
-  - jekyll-mermaid
-
-# Inject custom CSS into the head of your pages
 defaults:
   - scope:
       path: ""
     values:
       head:
         - |
+          <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+          <script>
+            document.addEventListener("DOMContentLoaded", function() {
+              mermaid.initialize({ startOnLoad: true });
+            });
+          </script>
           <style>
             body {
-              background-color: #2f2f2f; /* Dark grey background */
-              color: #f1f1f1; /* Light text color for readability */
+              background-color: #2f2f2f;
+              color: #f1f1f1;
             }
           </style>
