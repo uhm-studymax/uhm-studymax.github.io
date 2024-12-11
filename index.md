@@ -10,7 +10,7 @@ UHM Study is a web application for students to find study buddies online. It all
 * AWS S3 for cloud storage specifically for image storage
 * VERCEL for Project Deployment
 
-  ![ci-badge](https://github.com/uhm-studymax/study-buddy/workflows/ci-meteor-application-template-react/badge.svg)
+  ![ci-badge](https://github.com/uhm-studymax/study-buddy/workflows/study-buddy/badge.svg)
 
 
 
