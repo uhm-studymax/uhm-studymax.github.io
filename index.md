@@ -7,6 +7,8 @@ UHM Study is a web application for students to find study buddies online. It all
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
 * [React Bootstrap](https://react-bootstrap.github.io/) CSS Framework for UI design.
 
+
+
 ## User guide
 
 ### Home Page
@@ -116,6 +118,67 @@ The Buddy Profile Page shows the list of all contacts as Admin view.
 5. Run your project
    - Go into terminal on VScode, type: ``npm run dev``
    - The site should then be running on [https://localhost:3000](https://localhost:3000)
+
+### Database Architecture
+
+erDiagram
+    User ||--O| Profile : "has"
+    User ||--O{ StudySession : "creates/joins"
+    User ||--O{ Buddy : "is part of"
+    User ||--O{ Playlist : "owns"
+    User {
+        int id PK
+        string email
+        string password
+        Role role
+    }
+
+    Profile {
+        int id PK
+        string firstName
+        string lastName
+        int userId FK
+        string major
+        string social
+        string bio
+        CollegeRole collegeRole
+        string profilePicUrl
+    }
+
+    StudySession {
+        int id PK
+        string title
+        int userId FK
+        string description
+        string class
+        string place
+        datetime sessionDate
+        datetime startTime
+        datetime endTime
+        string image
+    }
+
+    Buddy {
+        int id PK
+        int buddyId FK
+    }
+
+    Playlist {
+        int id PK
+        int playlistId
+        string url
+        int userId FK
+    }
+
+    Stuff {
+        int id PK
+        string name
+        int quantity
+        Condition condition
+        string owner
+    }
+
+    note "Enums: Role (USER, ADMIN), CollegeRole (TA, LA, Student), Condition (excellent, good, fair, poor)" as EnumNote
 
 ## Community Feedback
 
