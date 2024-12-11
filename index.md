@@ -125,15 +125,19 @@ The Buddy Profile Page shows the list of all contacts as Admin view.
 ## Community Feedback
 
 - Brain Shu
+  
  Overall, The Study Buddy project is a good practical solution for organizing study sessions. It has a clear purpose and user-friendly design that caters to students' needs. To enhance the platform, consider making it responsive for different platforms such as mobile devices. adding notifications or reminders, and file-sharing tools, to boost productivity.
 
 - Ryan Kamakawiwo’ole
+  
 The concept of being able to study with people you choose is great. But it was a bit hard navigating through the website on Mobile, that’s the only caveat in terms of accessibility.
 
 - Kevin Martinez
+  
 Study Buddy has a simple design and layout, making the site easy to understand and use. Everything is accessible and functional, the hyperlinks work as intended, and the website keeps login, however there are some nit-picky things I’ve found. The website is a good idea, easy to use, and has the basic functions that support its concept.
 
 - Katie Huynh
+  
  The website was easy to navigate and user friendly. I had no trouble creating a new study session. The website has a simple design consisting mainly of two colors, however, I would incorporate a few more design elements in order to make the website more unique and interesting.
 
 -we need one more
