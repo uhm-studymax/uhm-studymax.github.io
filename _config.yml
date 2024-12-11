@@ -5,7 +5,9 @@ theme: jekyll-theme-cayman
 
 gems:
   - jekyll-mentions
-   - jekyll-mermaid
+
+plugins:
+  - jekyll-mermaid
 
 # Inject custom CSS into the head of your pages
 defaults:
