@@ -110,7 +110,7 @@ My Buddies Page shows a list of all the buddies that you added. The buddies you 
 
 The study playlist page contains all the study playlists users have uploaded. You can add a study playlist to the page by entering a link to your study page.
 
-<img src="doc/studyplaylist.png" alt="Edit Session">
+<img src="doc/studyplaylist.png" alt="Study Playlist">
 
 ## Developer Guide
 1. First Clone our github project [repository](https://github.com/uhm-studymax/study-buddy)
@@ -131,66 +131,9 @@ The study playlist page contains all the study playlists users have uploaded. Yo
 
 ### Database Architecture
 
-```mermaid
-erDiagram
-    User ||--O| Profile : "has"
-    User ||--O{ StudySession : "creates/joins"
-    User ||--O{ Buddy : "is part of"
-    User ||--O{ Playlist : "owns"
-    User {
-        int id PK
-        string email
-        string password
-        Role role
-    }
+<img src="doc/db1.png" alt="DB">
+<img src="doc/db2.png" alt="Enum">
 
-    Profile {
-        int id PK
-        string firstName
-        string lastName
-        int userId FK
-        string major
-        string social
-        string bio
-        CollegeRole collegeRole
-        string profilePicUrl
-    }
-
-    StudySession {
-        int id PK
-        string title
-        int userId FK
-        string description
-        string class
-        string place
-        datetime sessionDate
-        datetime startTime
-        datetime endTime
-        string image
-    }
-
-    Buddy {
-        int id PK
-        int buddyId FK
-    }
-
-    Playlist {
-        int id PK
-        int playlistId
-        string url
-        int userId FK
-    }
-
-    Stuff {
-        int id PK
-        string name
-        int quantity
-        Condition condition
-        string owner
-    }
-
-    note "Enums: Role (USER, ADMIN), CollegeRole (TA, LA, Student), Condition (excellent, good, fair, poor)" as EnumNote
-```
 
 ## Community Feedback
 
