@@ -66,7 +66,16 @@ Provides a list of available study sessions to join with description of when, wh
 
 <img src="doc/sessions.png" alt="Sessions">
 
-### Create Sessions
+## Session Modal
+
+A modal to display more information and a visible list of buddies in the session.
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="doc/sessionmodalinfo.png" alt="Sessions" style="width: 350px; height: auto;">
+    <img src="doc/sessionmodalbuddies.png" alt="Sessions" style="width: 350px; height: auto;">
+</div>
+
+### Create Session
 
 The Create Session Page allows you to create a study session describing What you're studying, where you want to study, and when you want to study in hopes of connecting with others who are studying the same 
 
@@ -84,23 +93,24 @@ My Sessions page shows all sessions that you added and created
 
 <img src="doc/mysessions.png" alt="My Session">
 
-### Edit Session
-
-The edit session page allows users to edit the study sessions that they created
-
-<img src="doc/editsession.png" alt="Edit Session">
-
 ### Buddies
 
 The Buddies Page shows a list of buddies you can find, add, and filter which buddies you added. Similar to a friends list on video games like Brawl Stars
 
 <img src="doc/buddies.png" alt="Buddies">
 
-### Buddy Profile
 
-The Buddy Profile Page shows the list of all contacts as Admin view.
+### MyBuddies
 
-<img src="doc/buddyprofile.png" alt="Buddy Profile">
+My Buddies Page shows a list of all the buddies that you added. The buddies you enjoy studying with and want to continue studying with.
+
+<img src="doc/mybuddies.png" alt="Buddies">
+
+### Study Playlist
+
+The study playlist page contains all the study playlists users have uploaded. You can add a study playlist to the page by entering a link to your study page.
+
+<img src="doc/studyplaylist.png" alt="Edit Session">
 
 ## Developer Guide
 1. First Clone our github project [repository](https://github.com/uhm-studymax/study-buddy)
