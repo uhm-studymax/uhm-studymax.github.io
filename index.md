@@ -113,9 +113,9 @@ My Buddies Page shows a list of all the buddies that you added. The buddies you 
 
 <img src="doc/mybuddies.png" alt="Buddies">
 
-### Study Playlist
+### Study Playlist (Our Spice)
 
-The study playlist page contains all the study playlists users have uploaded. You can add a study playlist to the page by entering a link to your study page.
+The study playlist page contains all the study playlists users have uploaded. You can add a study playlist to the page by entering a link to your study page. Each card shows an embedded spotify playlist that the user uploaded. So far it only allows spotify playlists links.
 
 <img src="doc/studyplaylist.png" alt="Study Playlist">
 
