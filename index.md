@@ -180,6 +180,11 @@ Team Members:
 ## Organization Page:
  - [Organization Page](https://github.com/uhm-studymax)
 
+## Continous Integration
+UHM StudyMax Study Buddy uses Github Actions to automatically run linting and tests for each commit to the main branch. You can view recent workflow results at
+[https://github.com/uhm-studymax/study-buddy/actions](https://github.com/uhm-studymax/study-buddy/actions)
+ ![ci-badge](https://github.com/uhm-studymax/study-buddy/workflows/study-buddy/badge.svg)
+
 ## Milestone 1:
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
 
