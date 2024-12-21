@@ -77,10 +77,9 @@ Provides a list of available study sessions to join with description of when, wh
 
 A modal to display more information and a visible list of buddies in the session.
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="doc/sessionmodalinfo.png" alt="Sessions" style="width: 350px; height: auto;">
-    <img src="doc/sessionmodalbuddies.png" alt="Sessions" style="width: 350px; height: auto;">
-</div>
+<img src="doc/sessionmodalinfo.png" alt="Sessions" style="width: 350px; height: auto;">
+<img src="doc/sessionmodalbuddies.png" alt="Sessions" style="width: 350px; height: auto;">
+
 
 ### Create Session
 
